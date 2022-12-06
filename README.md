@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MissDerpette
-- 👀 I’m interested in Front End, JavaScript and Web3
+- 👀 I’m interested in Front End
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Front End web developments especially on Web3
 - 📫 You can reach me at mderpette@gmail.com
