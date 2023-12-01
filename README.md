@@ -9,7 +9,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <b> Click to see my projects! </b> <br><br>
-<i>Work in progress</i> <br><br>
-
 - Countdown <a href="https://github.com/MissDerpette/countdown"> Github </a> || <a href="https://codepen.io/missderpette/full/abqKLro"> CodePen </a> 
-
+<i>Work in progress</i>
