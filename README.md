@@ -11,4 +11,5 @@ You can click the Preview link to take a look at your changes.
 <b> Click to see my projects! </b> 
 - Countdown <a href="https://github.com/MissDerpette/countdown"> Github </a> || <a href="https://codepen.io/missderpette/full/abqKLro"> CodePen </a> <br>
 - Login / Sign Up form using Firebase <a href="https://github.com/MissDerpette/login-signup-w-firebase/tree/main"> Github </a> || <a href="https://codepen.io/missderpette/full/eYQpqxa"> CodePen </a> <br>
+- JS Quiz App <a href="https://github.com/MissDerpette/exercises"> Github </a> || <a href="https://codepen.io/missderpette/full/WNPYbYr"> CodePen </a> <br>
 - <i>Work in progress</i>
