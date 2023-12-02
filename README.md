@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 - Analog Clock <a href="https://github.com/MissDerpette/clock-js"> Github </a> ||
  <a href="https://codepen.io/missderpette/full/XWOybbE"> CodePen </a> <br>
 - Analog Clock <a href="https://github.com/MissDerpette/countdown"> Github </a> ||
-- <a href="https://codepen.io/missderpette/full/abqKLro"> CodePen </a> <br>
+<a href="https://codepen.io/missderpette/full/abqKLro"> CodePen </a> <br>
 
 - <i>Work in progress</i>
 
