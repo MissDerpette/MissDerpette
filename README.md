@@ -14,6 +14,7 @@ You can click the Preview link to take a look at your changes.
 - JS Quiz App <a href="https://github.com/MissDerpette/exercises"> Github </a> || <a href="https://codepen.io/missderpette/full/WNPYbYr"> CodePen </a> <br>
 - Rock, Paper and Scissor Game <a href="https://github.com/MissDerpette/rock-paper-scissors
 "> Github </a> || <a href="https://codepen.io/missderpette/full/Jjxedjm"> CodePen </a> <br>
+- Analog Clock <a href="https://github.com/MissDerpette/clock-js"> Github </a> || <a href="https://codepen.io/missderpette/full/XWOybbE"> CodePen </a> <br>
 
 - <i>Work in progress</i>
 
