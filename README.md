@@ -24,9 +24,13 @@ You can click the Preview link to take a look at your changes.
 <a href="https://codepen.io/missderpette/full/abqKLro"> CodePen </a> <br>
 
 - <i>Work in progress</i>
-
 | Project Name                        	| CodePen                                      	| Github                                                            	|
 |-------------------------------------	|----------------------------------------------	|-------------------------------------------------------------------	|
 | Countdown                           	| https://codepen.io/missderpette/full/abqKLro 	| https://github.com/MissDerpette/countdown                         	|
 | Login / Sign Up form using Firebase 	| https://codepen.io/missderpette/full/eYQpqxa 	| https://github.com/MissDerpette/login-signup-w-firebase/tree/main 	|
 | JS Quiz App                         	| https://codepen.io/missderpette/full/WNPYbYr 	| https://github.com/MissDerpette/exercises                         	|
+| Rock, Paper and Scissor Game        	| https://codepen.io/missderpette/full/Jjxedjm 	| https://github.com/MissDerpette/rock-paper-scissors               	|
+| Analog Clock                        	| https://codepen.io/missderpette/full/XWOybbE 	| https://github.com/MissDerpette/clock-js                          	|
+|                                     	|                                              	|                                                                   	|
+|                                     	|                                              	|                                                                   	|
+|                                     	|                                              	|                                                                   	|
