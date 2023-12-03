@@ -25,8 +25,8 @@ You can click the Preview link to take a look at your changes.
 
 - <i>Work in progress</i>
 
-| Project Name | CodePen                                      | Github                                    |
-|--------------|----------------------------------------------|-------------------------------------------|
-| Countdown    | https://codepen.io/missderpette/full/abqKLro | https://github.com/MissDerpette/countdown |
-|              |                                              |                                           |
-|              |                                              |                                           |
+| Project Name                        	| CodePen                                      	| Github                                                            	|
+|-------------------------------------	|----------------------------------------------	|-------------------------------------------------------------------	|
+| Countdown                           	| https://codepen.io/missderpette/full/abqKLro 	| https://github.com/MissDerpette/countdown                         	|
+| Login / Sign Up form using Firebase 	| https://codepen.io/missderpette/full/eYQpqxa 	| https://github.com/MissDerpette/login-signup-w-firebase/tree/main 	|
+| JS Quiz App                         	| https://codepen.io/missderpette/full/WNPYbYr 	| https://github.com/MissDerpette/exercises                         	|
