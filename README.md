@@ -22,11 +22,9 @@ You can click the Preview link to take a look at your changes.
  <a href="https://codepen.io/missderpette/full/XWOybbE"> CodePen </a> <br>
 - Countdown Timer <a href="https://github.com/MissDerpette/countdown"> Github </a> ||
 <a href="https://codepen.io/missderpette/full/abqKLro"> CodePen </a> <br>
-
-- small projects
-   Monkey  <a href="https://github.com/MissDerpette/3-proj/tree/main/Project1-monkey"> Github </a> ||
-<a href="https://codepen.io/missderpette/full/YzevrgG"> CodePen </a>
-   Hover Button <a href="https://github.com/MissDerpette/3-proj/tree/main/Project3-hover"> Github </a> ||
+- Monkey  <a href="https://github.com/MissDerpette/3-proj/tree/main/Project1-monkey"> Github </a> ||
+<a href="https://codepen.io/missderpette/full/YzevrgG"> CodePen </a> <br>
+- Hover Button <a href="https://github.com/MissDerpette/3-proj/tree/main/Project3-hover"> Github </a> ||
 <a href="https://codepen.io/missderpette/pen/oNmJGeJ"> CodePen </a>
 
 - <i>Work in progress</i>
